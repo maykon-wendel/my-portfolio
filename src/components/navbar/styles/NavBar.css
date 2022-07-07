@@ -57,14 +57,14 @@
   }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 760px) {
 
   #linkedin,
   #instagram,
   #github,
   #Telegram {
-    font-size: 1em;
-    margin: 10px 30px;
+    font-size: 12px;
+    margin: 10px 15px;
   }
   .navlinks img {
     height: 16px;
