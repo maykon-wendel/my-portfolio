@@ -1,0 +1,17 @@
+.footer-div{
+  width: 60%;
+  height: auto;
+  display: flex;
+  margin: 40px auto;
+  flex-direction: column;
+  justify-content: space-around;
+}
+div.Imgs-Community {
+  height: 60px;
+}
+div.Imgs-Community img {
+  width: 64px;
+  height: 64px;
+  margin-left: 15%;
+  margin-top: 10px;
+}
